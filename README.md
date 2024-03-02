@@ -14,11 +14,12 @@ I come from a [Your Field or Industry] background and have been coding for more 
 
 I'm fluent in several languages, including:
 
-- Java <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
-- JavaScript <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-- HTML/CSS <img src="https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS">
-- C <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
-- SQL <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+<img src="[https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white](https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg)" alt="Java">
+<img src="[https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg)" alt="JavaScript">
+<img src="[https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white](https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg)](https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg)" alt="CSS">
+<img src="[https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white](https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg)" alt="HTML">
+<img src="[https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white](https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg)" alt="C">
+<img src="[https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white](https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg)" alt="SQL">
 
 
 ## 🚀 My Projects
