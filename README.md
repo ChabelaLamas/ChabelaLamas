@@ -14,12 +14,13 @@ I come from a [Your Field or Industry] background and have been coding for more 
 
 I'm fluent in several languages, including:
 
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="Java">
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="JavaScript">
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" alt="CSS">
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" alt="HTML">
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="C">
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="SQL">
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="Java" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" alt="HTML" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" alt="C" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50">
+
 
 
 ## 🚀 My Projects
